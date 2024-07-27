@@ -70,13 +70,13 @@
 
 - [x] **Bài 3:**
 
-`Điểm: `
+`Điểm: 6`
 
 - Front chữ đang sử dụng trên `tabs` là `Arial` trong khi yêu cầu là `Asap`.
 - Thành phần `tabs` nên sử dụng thẻ `ul`, `li` vì đây là một danh sách và có thể `chuyển hướng` nên cần sử dụng thẻ `nav`.
 - Còn thiếu phần gạch ngang cạnh `header`.
 - Khi `hover` vào các quận thì nên có hiệu ứng.
-- Số bất động sản chưa đúng `font-size` và chưa được `in ddaajm`.
+- Số bất động sản chưa đúng `font-size` và chưa được `in đậm`.
 - Trình bày `CSS` chưa tốt. Nên có khoảng cách khi trình bày giữa `classname` và `{}`.
 - Đặt tên `class` không đuôc tốt `quận2, quận7, quận9, quận-tân-bình, thành-phố-thủ-đức, huyện-bình-chánh`. có thể dùng `:nth-child()`.
 
