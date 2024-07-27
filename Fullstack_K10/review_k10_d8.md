@@ -10,7 +10,10 @@
 
 - [x] **Bài 2:**
 
-`Điểm: 10`
+`Điểm: 9`
+
+- Thành phần `profile-header-nav` của anh nó là `header`, anh nên dùng thẻ `header` bọc ngoài nha.
+- Bên trong thành phần `profile-header-nav` là thanh điều hướng, anh nên sử dụng thẻ `nav` bọc ngoài và bên trong sử dụng `ul`, `li` nhé.
 
 - [x] **Bài 3:**
 
@@ -74,4 +77,12 @@
 - Chưa sử dụng tốt các thuộc tính `CSS`.
 - Cần chú ý về `font-family`.
 
-- [x] **Đánh giá chung:** Bài làm tốt.
+- [x] **Đánh giá chung:** Bài làm chưa được tốt.
+
+`Điểm tổng kết: 7.4`
+`Note: Anh sửa lại bài làm theo nhận xét rồi sau đó báo cáo lại cho em để em kiểm tra lại nha.`
+
+## [Hoàng Thanh Huy](https://github.com/huyhtf88188/f8_fullstack/tree/main)
+
+- [x] **Bài 1:**
+-
