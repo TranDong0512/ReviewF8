@@ -6,8 +6,6 @@
 
 `Điểm: 6`
 
-- Các thẻ input và button trong bài làm không kế thừa thuộc tính font-family của thẻ body do vậy cần thêm thuộc tính font-family: "Lato", sans-serif; cho các thẻ input và button.
-
 - Thành phần `dsr` chưa sử dụng đúng `font: Lato`.
 - Đoạn text trong phần `Send us... chat` chưa được làm mờ.
 - Thẻ `textarea` nên có thêm thuộc tính `resize: none` để ngăn người dùng thay đổi kích thước của `textarea`.
