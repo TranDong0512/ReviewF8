@@ -69,6 +69,7 @@
 - Nút `LOGIN` chưa có thuộc tính `border-radius`.
 - Thành phần `account-register` chưa đúng với thiết kế.
 - Chưa có thành phần `Arrow button` nằm giữa `app-log` và `app-account`.
+- Thành phần `form-control` nên được đưa ra ngoài thẻ `form`.
 - Nên tách `CSS` qua file riêng và sử dụng thẻ `link` sẽ giúp code tách biệt được `HTML` và `CSS`, tăng khả năng tái sử dụng khi phát triển.
 
 - [x] **Điểm mạnh:**
