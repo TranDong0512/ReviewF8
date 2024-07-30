@@ -116,3 +116,85 @@
 `Điểm tổng kết: 8`
 
 `Note: Anh sửa lại bài làm theo phần nhận xét xong và báo lại cho em nhé!`
+
+## [Nguyễn Hải Dương](https://github.com/tenk22/F8_fullstacks/tree/main/btvnb9)
+
+- [x] **Bài 1:**
+
+`Điểm: 6`
+
+- Tổng quan giao diện chưa đúng với bài mẫu.
+- Sử dụng thẻ `link` để liên kết với file `CSS`.
+- Thành phần `timeline` đang chiếm nhiều chiều rộng dẫn đến trên giao diện khi di chuột bên ngoài vùng hiển thị của `timeline-item` thì vẫn có `hover`.
+- Chưa sử dụng đúng `Font Heading` theo yêu cầu đề bài là `Space Grotes`.
+- CHưa sử dụng đúng `Font Text` theo yêu cầu đề bài là `Inter`.
+- Giao diện thành phần `image-stack` chưa đúng với giao diện yêu cầu. Tìm hiểu thuộc tính `background-clip` và `color: transparent` để làm hiệu ứng trong suốt.
+
+- [x] **Bài 2:**
+
+`Điểm: 7`
+
+- Sử dụng thẻ `link` để liên kết với file `CSS`.
+- Chưa có được hiệu ứng khi `hover` như trong video demo, tìm hiểu và sử dụng thuộc tính `animation` hoặc `transition` để thực hiện yêu cầu đề bài.
+- Code `html` chưa được tốt.
+  ![accsess/image/NHD_1.png](./accsess/image/NHD_1.png)
+- Thay đổi `font-family` tương đồng với đề bài.
+- Khi `hover` thành phần `learn` xuất hiện nhưng không bấm được để điều hướng. Nên bọc thẻ `p` bên trong thẻ `a` để người dùng có thể điều hướng.
+- Khi `hover` vào `Lean More` arrow-right cũng phải đổi mầu.
+
+- [x] **Bài 3:**
+
+`Điểm: 6.25`
+
+- Khi `focus` vào các ô `field` chưa có hiệu ứng như video demo.
+- Khi `focus` chưa ẩn đi `outline` của thẻ `input`, `select`, `textarea`.
+- Thẻ `textarea` cần thêm thuộc tính `resize` để người dùng không thể thay đổi kích thước. Không hiển thị `placeholder` của thẻ.
+
+- [x] **Điểm mạnh:**
+
+- [x] **Điểm yếu:**
+- Chưa đọc kỹ lưu ý của bài tập.
+- Cần chú ý hơn về chi tiết giao diện mẫu.
+- Chưa tìm hiểu về các thuộc tính CSS để hoàn thành được yêu cầu bài tập.
+
+- [x] **Đánh giá chung:** Bài làm chưa tốt.
+
+`Điểm tổng kết: 6.4`
+
+`Note: Anh sửa lại bài làm theo phần nhận xét xong và báo lại cho em nhé!`
+
+## [Hoàng Thanh Huy](https://github.com/huyhtf88188/f8_fullstack/blob/main/day9)
+
+- [x] **Bài 1:**
+
+`Điểm: 10`
+
+- Bài làm tốt!
+
+- [x] **Bài 2:**
+
+`Điểm: 9.75`
+
+- Khi `hover` vào `Learn More` thì `arrow-right` cũng phải có hiệu ứng đổi mầu.
+
+- [x] **Bài 3:**
+
+## `Điểm: 8`
+
+- Khi `focus` vào các `field` thì chưa có được hiệu ứng giống như video demo.
+- Khi `focus` chưa ẩn đi `outline` của thẻ `input`, `select`, `textarea`.
+- Kích thước thẻ `textarea` chưa đúng và cần thêm thuộc tính `resize` để người dùng không thay đổi được kích thước.
+- `Send message` chưa được nằm chính giữa nút `button`.
+
+- [x] **Điểm mạnh:**
+- Sử dụng tốt kiến thức được học và áp dụng vào được bài tập.
+- Sử dụng tốt bộ chọn trong `CSS`.
+- Sử dụng tốt thuộc tính `transition`.
+
+- [x] **Điểm yếu:**
+
+- [x] **Đánh giá chung:** Bài làm tốt.
+
+`Điểm tổng kết: 9.25`
+
+`Note: Anh sửa lại bài làm theo phần nhận xét xong và báo lại cho em nhé!`
