@@ -179,7 +179,7 @@
 
 - [x] **Bài 3:**
 
-## `Điểm: 8`
+`Điểm: 8`
 
 - Khi `focus` vào các `field` thì chưa có được hiệu ứng giống như video demo.
 - Khi `focus` chưa ẩn đi `outline` của thẻ `input`, `select`, `textarea`.
@@ -196,5 +196,46 @@
 - [x] **Đánh giá chung:** Bài làm tốt.
 
 `Điểm tổng kết: 9.25`
+
+`Note: Anh sửa lại bài làm theo phần nhận xét xong và báo lại cho em nhé!`
+
+## [Nguyễn Thế Hân](https://nguyenthehanf8.github.io/F8-Fullstack-Ofline/Day-9)
+
+- [x] **Bài 1:**
+
+`Điểm: 6`
+
+- Chưa sử dụng đúng `Font Heading` đề bài yêu cầu là `Space Grotes` nhưng đang sử dụng là `Inter, sans-serif`.
+- Chưa sử dụng đúng `Font Text` đề bài yêu cầu là `Inter` nhưng đang sử dụng là `sans-serif`.
+- Chưa có hiệu ứng khi `hover` vào các `menu-item`. Anh nên sử dụng thuộc tính `transform: translateX` và `transition` để hoàn thành yêu cầu đề bài.
+- Thành phần bên phải của trang web không đúng yêu cầu bài tập. Sử dụng `HTML`, `CSS` để hoàn thiện, tìm hiểu và sử dụng thuộc tính `background-clip` và `color: transparent` để làm hiệu ứng trong suốt
+- Thiếu thanh dọc của cột thời gian các giai đoạn.
+
+- [x] **Bài 2:**
+
+`Điểm: 7`
+
+- Khi `hover` vào các `card-item` thì kích thước chiều cao đang bị thay đổi. Sử dụng thêm thuộc tính `card-item`.
+- Khi `hover` vào `card-item` chưa có được hiệu ứng khi `hover` như trong video demo, tìm hiểu và sử dụng thuộc tính `animation` hoặc `transition` để thực hiện yêu cầu đề bài.
+- `Learn More` và `icon` đang bị sát vào nhau cần có thêm khoảng cách.
+
+- [x] **Bài 3:**
+
+`Điểm: 9.5`
+
+- Cần đưa thành phần `wrapper-text` ra bên ngoài thẻ `form`.
+
+- [x] **Điểm mạnh:**
+- Sử dụng tốt kiến thức được học và áp dụng vào được bài tập.
+- Sử dụng tốt bộ chọn trong `CSS`.
+- Tìm hiểu và dùng tốt thuộc tính `grid-template-columns`.
+
+- [x] **Điểm yếu:**
+- - Chưa đọc kỹ lưu ý của bài tập.
+- Cần chú ý hơn về chi tiết giao diện mẫu.
+- Chưa tìm hiểu về các thuộc tính CSS để hoàn thành được yêu cầu bài tập.
+- [x] **Đánh giá chung:** Bài làm tốt.
+
+`Điểm tổng kết: 7.5`
 
 `Note: Anh sửa lại bài làm theo phần nhận xét xong và báo lại cho em nhé!`
