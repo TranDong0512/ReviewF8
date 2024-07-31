@@ -215,7 +215,7 @@
 
 `Điểm: 7`
 
-- Khi `hover` vào các `card-item` thì kích thước chiều cao đang bị thay đổi. Sử dụng thêm thuộc tính `card-item`.
+- Khi `hover` vào các `card-item` thì kích thước chiều cao đang bị thay đổi. Sử dụng thêm thuộc tính `min-height`.
 - Khi `hover` vào `card-item` chưa có được hiệu ứng khi `hover` như trong video demo, tìm hiểu và sử dụng thuộc tính `animation` hoặc `transition` để thực hiện yêu cầu đề bài.
 - `Learn More` và `icon` đang bị sát vào nhau cần có thêm khoảng cách.
 
@@ -231,10 +231,10 @@
 - Tìm hiểu và dùng tốt thuộc tính `grid-template-columns`.
 
 - [x] **Điểm yếu:**
-- - Chưa đọc kỹ lưu ý của bài tập.
+- Chưa đọc kỹ lưu ý của bài tập.
 - Cần chú ý hơn về chi tiết giao diện mẫu.
 - Chưa tìm hiểu về các thuộc tính CSS để hoàn thành được yêu cầu bài tập.
-- [x] **Đánh giá chung:** Bài làm tốt.
+- [x] **Đánh giá chung:** Bài làm khá tốt.
 
 `Điểm tổng kết: 7.5`
 
